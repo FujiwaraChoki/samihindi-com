@@ -6,7 +6,7 @@ const CustomHead = ({ title }) => {
       <title>{title}</title>
       <meta
         name="description"
-        content="Sami Hindi is a full-time student living in Zurich, Switzerland.
+        content="Sami Hindi is a full-time student living in Zurich, Switzerland."
       />
       <meta
         name="keywords"
@@ -18,7 +18,7 @@ const CustomHead = ({ title }) => {
         content="Hey! I'm Sami Hindi, a full stack developer. I'm currently studying in Switzerland."
       />
       <meta property="og:image" content="https://imgur.com/4zi5KkQ.png" />
-      <meta property="og:url" content="https://vscode-portfolio.vercel.app" />
+      <meta property="og:url" content="https://samihindi.com" />
       <meta name="twitter:card" content="summary_large_image" />
     </Head>
   );
