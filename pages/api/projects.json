@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Flash",
+    "image": "https://i.imgur.com/Bv6pP3O.jpeg",
+    "description": "A port and directory scanning tool written in Python",
+    "tags": ["python", "requests", "web", "hacking", "scanning"],
+    "source_code": "https://github.com/FujiwaraChoki/Flash",
+    "demo": "https://github.com/FujiwaraChoki/Flash/blob/main/repo/demo.gif"
+  },
+  {
+    "id": 2,
+    "name": "HyperCode",
+    "image": "https://raw.githubusercontent.com/FujiwaraChoki/hyper-code/master/assets/favicon.ico",
+    "description": "Text editor written in JavaScript, using Electron.js",
+    "tags": ["javascript", "node", "electron", "bootstrap", "linux", "git"],
+    "source_code": "https://github.com/FujiwaraChoki/hyper-code",
+    "demo": "https://github.com/FujiwaraChoki/hyper-code/releases"
+  },
+  {
+    "id": 3,
+    "name": "Assembly Language",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "A repository containing my assembly language projects",
+    "tags": ["assembly", "elf-64", "linux", "git"],
+    "source_code": "https://github.com/FujiwaraChoki/Assembly"
+  },
+  {
+    "id": 4,
+    "name": "VSCode Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "My VSCode themed portfolio, made in Next.js",
+    "tags": ["next", "css-modules"],
+    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
+    "demo": "http://vscode-portfolio.vercel.app/"
+  }
+]
