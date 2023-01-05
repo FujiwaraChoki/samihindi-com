@@ -6,7 +6,7 @@ import CodeIcon from "./icons/CodeIcon";
 import MailIcon from "./icons/MailIcon";
 import AccountIcon from "./icons/AccountIcon";
 import SettingsIcon from "./icons/SettingsIcon";
-import YoutubeIcon from "./icons/YoutubeIcon";
+import WatchIcon from "./icons/WatchIcon";
 import styles from "../styles/Sidebar.module.css";
 
 const sidebarTopItems = [
@@ -23,7 +23,7 @@ const sidebarTopItems = [
     path: "/projects",
   },
   {
-    Icon: YoutubeIcon,
+    Icon: WatchIcon,
     path: "/videos",
   },
   {

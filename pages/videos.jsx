@@ -1,7 +1,6 @@
 import VideoCard from '../components/VideoCard';
 import { getVideos } from './api/videos'
 import styles from '../styles/ProjectsPage.module.css';
-import { useEffect } from 'react';
 
 const VideosPage = ({ videos }) => {
     return (
