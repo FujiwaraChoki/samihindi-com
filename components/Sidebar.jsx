@@ -6,6 +6,7 @@ import CodeIcon from "./icons/CodeIcon";
 import MailIcon from "./icons/MailIcon";
 import AccountIcon from "./icons/AccountIcon";
 import SettingsIcon from "./icons/SettingsIcon";
+import YoutubeIcon from "./icons/YoutubeIcon";
 import styles from "../styles/Sidebar.module.css";
 
 const sidebarTopItems = [
@@ -20,6 +21,10 @@ const sidebarTopItems = [
   {
     Icon: CodeIcon,
     path: "/projects",
+  },
+  {
+    Icon: YoutubeIcon,
+    path: "/videos",
   },
   {
     Icon: MailIcon,
