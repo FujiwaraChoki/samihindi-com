@@ -39,7 +39,7 @@ export async function getVideos() {
                 const thumbnailUrl = line.split('src=')[1].split(' alt=')[0];
 
                 // Get YouTube video url
-                const youtubeVideoUrl = await getYoutubeUrl('UC1ghEiTed2YQhLY1YNouzfQ', title);
+                const youtubeVideoUrl = await getYoutubeUrl('UC9jcFkCYiwhh-m5w4UQps-g', title);
 
                 // Add to videos array
                 videos.push({
